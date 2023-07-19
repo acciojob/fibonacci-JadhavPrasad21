@@ -16,6 +16,4 @@ function fibonacci(num) {
 
   return current;
 }
-}
-
 module.exports = fibonacci;
